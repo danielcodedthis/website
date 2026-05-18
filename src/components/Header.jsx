@@ -5,7 +5,7 @@ export default function Header() {
     return (
         <Grid container spacing={2} sx={{ paddingBottom: 3 }}>
             <Grid item xs={12}>
-                <Typography variant='h4' align='center'>Coded<strong>By</strong>Daniel</Typography>
+                <Typography variant='h4' align='center'>Code<strong>By</strong>Daniel</Typography>
                 <Typography align='center'><strong>Software</strong>Developer</Typography>
             </Grid>
         </Grid>
